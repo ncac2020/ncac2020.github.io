@@ -193,6 +193,7 @@ button:focus {
 .title_default_light h4,
 .title_default_light p {
 	color:#fff;
+	text-align: justify;
 }
 .title_blue_dark h4{
 	color: #0043bb;
